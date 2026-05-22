@@ -1,0 +1,145 @@
+# -------------------------------------------------------------------
+# 🌟 ALL-ROUNDER CLASH CONFIG (MOBILE & PC + PROXY PROVIDER + SNIFFER)
+# -------------------------------------------------------------------
+
+port: 7890
+socks-port: 7891
+mixed-port: 7892
+allow-lan: true
+mode: rule
+log-level: warning
+ipv6: false
+
+# -------------------------------------------------------------------
+# 🔍 নেটওয়ার্ক স্নিফার (প্যাকেট থেকে আসল ডোমেইন বের করার জন্য)
+# -------------------------------------------------------------------
+sniffer:
+  enable: true
+  force-dns-mapping: true
+  parse-pure-ip: true
+  override-destination: true
+  sniff:
+    HTTP:
+      ports:
+        - 80
+        - 8080-8880
+      override-destination: true
+    TLS:
+      ports:
+        - 443
+        - 8443
+    QUIC:
+      ports:
+        - 443
+        - 8443
+
+# DNS অপ্টিমাইজেশন
+dns:
+  enable: true
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  nameserver:
+    - 1.1.1.1
+    - 8.8.8.8
+    - https://dns.google/dns-query
+
+# ১. ম্যানুয়াল সার্ভার লিস্ট
+proxies:
+  - name: "🇧🇩 Server-3 (HTTP)"
+    type: http
+    server: 103.202.223.2
+    port: 8070
+    udp: true
+
+  - name: "🇧🇩 SOCKS5-B"
+    type: socks5
+    server: 103.189.218.85
+    port: 6969
+    udp: true
+
+# ২. ডাইনামিক প্রক্সি প্রোভাইডার
+proxy-providers:
+  myprovider:
+    type: http
+    url: "https://proxies-worker.darkblazespuky.workers.dev/proxies?token=abc123"
+    interval: 3600
+    path: ./proxies.yaml
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 300
+
+# ৩. স্মার্ট প্রক্সি গ্রুপ
+proxy-groups:
+  - name: "🚀 MAIN-PROXY"
+    type: select
+    proxies:
+      - "⚡ AUTO-FASTEST"
+      - "🎁 FREE-WORKER"
+      - "🇧🇩 Server-3 (HTTP)"
+      - "🇧🇩 SOCKS5-B"
+      - DIRECT
+
+  - name: "🎁 FREE-WORKER"
+    type: load-balance
+    strategy: round-robin
+    use:
+      - myprovider
+
+  - name: "⚡ AUTO-FASTEST"
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "🇧🇩 Server-3 (HTTP)"
+      - "🇧🇩 SOCKS5-B"
+
+  - name: "🌪️ DOWNLOADS (IDM)"
+    type: select
+    proxies:
+      - "🇧🇩 SOCKS5-B"
+      - "🎁 FREE-WORKER"
+      - "⚡ AUTO-FASTEST"
+      - DIRECT
+
+  - name: "📱 TELEGRAM"
+    type: select
+    proxies:
+      - "🇧🇩 SOCKS5-B"
+      - "🎁 FREE-WORKER"
+      - "🚀 MAIN-PROXY"
+
+# ৪. প্রফেশনাল রুলস (PC + Mobile)
+rules:
+  # লোকাল BDIX সরাসরি যাবে
+  - DOMAIN-SUFFIX,bd,DIRECT
+  - GEOIP,BD,DIRECT
+  
+  # --- ল্যাপটপ স্পেশাল রুলস ---
+  - PROCESS-NAME,idman.exe,🌪️ DOWNLOADS (IDM)
+  - PROCESS-NAME,chrome.exe,🚀 MAIN-PROXY
+  - PROCESS-NAME,brave.exe,🚀 MAIN-PROXY
+  - PROCESS-NAME,Telegram.exe,📱 TELEGRAM
+
+  # --- মোবাইল ও ল্যাপটপ কমন রুলস ---
+  - DOMAIN-SUFFIX,t.me,📱 TELEGRAM
+  - DOMAIN-SUFFIX,telegram.org,📱 TELEGRAM
+  - IP-CIDR,91.108.0.0/16,📱 TELEGRAM
+  - IP-CIDR,149.154.160.0/20,📱 TELEGRAM
+
+  # ডাউনলোড সাইটগুলো
+  - DOMAIN-KEYWORD,torrent,🌪️ DOWNLOADS (IDM)
+  - DOMAIN-SUFFIX,mediafire.com,🌪️ DOWNLOADS (IDM)
+  - DOMAIN-SUFFIX,mega.nz,🌪️ DOWNLOADS (IDM)
+  - DOMAIN-KEYWORD,drive.google,🌪️ DOWNLOADS (IDM)
+  
+  # বাকি সব রিকোয়েস্ট MAIN-PROXY দিয়ে যাবে
+  - MATCH,🚀 MAIN-PROXY
+
+# ৫. TUN মোড
+tun:
+  enable: true
+  stack: mixed
+  auto-route: true
+  auto-detect-interface: true
