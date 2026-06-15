@@ -1,0 +1,1177 @@
+<section class="schedule-card">
+  <div class="schedule-top">
+    <div class="schedule-title">
+      <strong>Match Schedule <span class="mlbd-v2-badge"><i class="fa fa-bolt"></i> V2</span></strong>
+      <span>All times are in Bangladesh Standard Time</span>
+    </div>
+    <div class="mlbd-schedule-tabs" data-schedule-status-tabs>
+      <button class="mlbd-schedule-tab is-active" data-filter="all" type="button">All</button>
+      <button class="mlbd-schedule-tab" data-filter="live" type="button">Live</button>
+      <button class="mlbd-schedule-tab" data-filter="today" type="button">Today</button>
+      <button class="mlbd-schedule-tab" data-filter="upcoming" type="button">Upcoming</button>
+      <button class="mlbd-schedule-tab" data-filter="finished" type="button">Finished</button>
+    </div>
+    <div class="mlbd-stage-tabs" data-stage-tabs>
+      <button class="mlbd-stage-tab is-active" data-stage="all" type="button">All Stage</button>
+      <button class="mlbd-stage-tab" data-stage="group" type="button">Group Stage</button>
+      <button class="mlbd-stage-tab" data-stage="round32" type="button">Round 32</button>
+      <button class="mlbd-stage-tab" data-stage="round16" type="button">Round 16</button>
+      <button class="mlbd-stage-tab" data-stage="quarter" type="button">Quaterfinals</button>
+      <button class="mlbd-stage-tab" data-stage="semi" type="button">Semi Finals</button>
+      <button class="mlbd-stage-tab" data-stage="final" type="button">Final</button>
+    </div>
+  </div>
+
+      <div class="match-list">
+                      <div class="match-card " data-match-status="finished" data-stage="group" data-start-ts="1781204400" data-end-ts="1781211600">
+          <div style="min-width:0">
+            <div class="match-group">Group A</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/mx.svg" alt="Mexico" loading="lazy">              <span class="team-name">Mexico</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/za.svg" alt="South Africa" loading="lazy">              <span class="team-name">South Africa</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Fri, Jun 12<br>1:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781204400" data-end="1781211600" data-status="finished">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="finished" data-stage="group" data-start-ts="1781229600" data-end-ts="1781236800">
+          <div style="min-width:0">
+            <div class="match-group">Group A</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/kr.svg" alt="South Korea" loading="lazy">              <span class="team-name">South Korea</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/cz.svg" alt="Czechia" loading="lazy">              <span class="team-name">Czechia</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Fri, Jun 12<br>8:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781229600" data-end="1781236800" data-status="finished">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="finished" data-stage="group" data-start-ts="1781290800" data-end-ts="1781298000">
+          <div style="min-width:0">
+            <div class="match-group">Group B</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ca.svg" alt="Canada" loading="lazy">              <span class="team-name">Canada</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ba.svg" alt="Bosnia and Herzegovina" loading="lazy">              <span class="team-name">Bosnia and Herzegovina</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sat, Jun 13<br>1:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781290800" data-end="1781298000" data-status="finished">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="finished" data-stage="group" data-start-ts="1781312400" data-end-ts="1781319600">
+          <div style="min-width:0">
+            <div class="match-group">Group D</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/us.svg" alt="USA" loading="lazy">              <span class="team-name">USA</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/py.svg" alt="Paraguay" loading="lazy">              <span class="team-name">Paraguay</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sat, Jun 13<br>7:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781312400" data-end="1781319600" data-status="finished">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="finished" data-stage="group" data-start-ts="1781377200" data-end-ts="1781384400">
+          <div style="min-width:0">
+            <div class="match-group">Group B</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/qa.svg" alt="Qatar" loading="lazy">              <span class="team-name">Qatar</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ch.svg" alt="Switzerland" loading="lazy">              <span class="team-name">Switzerland</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sun, Jun 14<br>1:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781377200" data-end="1781384400" data-status="finished">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="finished" data-stage="group" data-start-ts="1781388000" data-end-ts="1781395200">
+          <div style="min-width:0">
+            <div class="match-group">Group C</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/br.svg" alt="Brazil" loading="lazy">              <span class="team-name">Brazil</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ma.svg" alt="Morocco" loading="lazy">              <span class="team-name">Morocco</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sun, Jun 14<br>4:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781388000" data-end="1781395200" data-status="finished">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="finished" data-stage="group" data-start-ts="1781398800" data-end-ts="1781406000">
+          <div style="min-width:0">
+            <div class="match-group">Group C</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ht.svg" alt="Haiti" loading="lazy">              <span class="team-name">Haiti</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/gb.svg" alt="Scotland" loading="lazy">              <span class="team-name">Scotland</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sun, Jun 14<br>7:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781398800" data-end="1781406000" data-status="finished">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="finished" data-stage="group" data-start-ts="1781409600" data-end-ts="1781416800">
+          <div style="min-width:0">
+            <div class="match-group">Group D</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/au.svg" alt="Australia" loading="lazy">              <span class="team-name">Australia</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/tr.svg" alt="Türkiye" loading="lazy">              <span class="team-name">Türkiye</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sun, Jun 14<br>10:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781409600" data-end="1781416800" data-status="finished">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="finished" data-stage="group" data-start-ts="1781456400" data-end-ts="1781463600">
+          <div style="min-width:0">
+            <div class="match-group">Group E</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/de.svg" alt="Germany" loading="lazy">              <span class="team-name">Germany</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/cw.svg" alt="Curaçao" loading="lazy">              <span class="team-name">Curaçao</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sun, Jun 14<br>11:00 PM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781456400" data-end="1781463600" data-status="finished">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="finished" data-stage="group" data-start-ts="1781467200" data-end-ts="1781474400">
+          <div style="min-width:0">
+            <div class="match-group">Group F</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/nl.svg" alt="Netherlands" loading="lazy">              <span class="team-name">Netherlands</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/jp.svg" alt="Japan" loading="lazy">              <span class="team-name">Japan</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Mon, Jun 15<br>2:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781467200" data-end="1781474400" data-status="finished">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="finished" data-stage="group" data-start-ts="1781478000" data-end-ts="1781485200">
+          <div style="min-width:0">
+            <div class="match-group">Group E</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ci.svg" alt="Ivory Coast" loading="lazy">              <span class="team-name">Ivory Coast</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ec.svg" alt="Ecuador" loading="lazy">              <span class="team-name">Ecuador</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Mon, Jun 15<br>5:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781478000" data-end="1781485200" data-status="finished">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="finished" data-stage="group" data-start-ts="1781488800" data-end-ts="1781496000">
+          <div style="min-width:0">
+            <div class="match-group">Group F</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/se.svg" alt="Sweden" loading="lazy">              <span class="team-name">Sweden</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/tn.svg" alt="Tunisia" loading="lazy">              <span class="team-name">Tunisia</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Mon, Jun 15<br>8:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781488800" data-end="1781496000" data-status="finished">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1781539200" data-end-ts="1781546400">
+          <div style="min-width:0">
+            <div class="match-group">Group H</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/es.svg" alt="Spain" loading="lazy">              <span class="team-name">Spain</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/cv.svg" alt="Cabo Verde" loading="lazy">              <span class="team-name">Cabo Verde</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Mon, Jun 15<br>10:00 PM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781539200" data-end="1781546400" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1781550000" data-end-ts="1781557200">
+          <div style="min-width:0">
+            <div class="match-group">Group G</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/be.svg" alt="Belgium" loading="lazy">              <span class="team-name">Belgium</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/eg.svg" alt="Egypt" loading="lazy">              <span class="team-name">Egypt</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Tue, Jun 16<br>1:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781550000" data-end="1781557200" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1781560800" data-end-ts="1781568000">
+          <div style="min-width:0">
+            <div class="match-group">Group H</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/sa.svg" alt="Saudi Arabia" loading="lazy">              <span class="team-name">Saudi Arabia</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/uy.svg" alt="Uruguay" loading="lazy">              <span class="team-name">Uruguay</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Tue, Jun 16<br>4:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781560800" data-end="1781568000" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1781571600" data-end-ts="1781578800">
+          <div style="min-width:0">
+            <div class="match-group">Group G</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ir.svg" alt="Iran" loading="lazy">              <span class="team-name">Iran</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/nz.svg" alt="New Zealand" loading="lazy">              <span class="team-name">New Zealand</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Tue, Jun 16<br>7:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781571600" data-end="1781578800" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1781636400" data-end-ts="1781643600">
+          <div style="min-width:0">
+            <div class="match-group">Group I</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/fr.svg" alt="France" loading="lazy">              <span class="team-name">France</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/sn.svg" alt="Senegal" loading="lazy">              <span class="team-name">Senegal</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Wed, Jun 17<br>1:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781636400" data-end="1781643600" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1781647200" data-end-ts="1781654400">
+          <div style="min-width:0">
+            <div class="match-group">Group I</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/iq.svg" alt="Iraq" loading="lazy">              <span class="team-name">Iraq</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/no.svg" alt="Norway" loading="lazy">              <span class="team-name">Norway</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Wed, Jun 17<br>4:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781647200" data-end="1781654400" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1781658000" data-end-ts="1781665200">
+          <div style="min-width:0">
+            <div class="match-group">Group J</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ar.svg" alt="Argentina" loading="lazy">              <span class="team-name">Argentina</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/dz.svg" alt="Algeria" loading="lazy">              <span class="team-name">Algeria</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Wed, Jun 17<br>7:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781658000" data-end="1781665200" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1781668800" data-end-ts="1781676000">
+          <div style="min-width:0">
+            <div class="match-group">Group J</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/at.svg" alt="Austria" loading="lazy">              <span class="team-name">Austria</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/jo.svg" alt="Jordan" loading="lazy">              <span class="team-name">Jordan</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Wed, Jun 17<br>10:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781668800" data-end="1781676000" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1781715600" data-end-ts="1781722800">
+          <div style="min-width:0">
+            <div class="match-group">Group K</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/pt.svg" alt="Portugal" loading="lazy">              <span class="team-name">Portugal</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/cd.svg" alt="DR Congo" loading="lazy">              <span class="team-name">DR Congo</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Wed, Jun 17<br>11:00 PM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781715600" data-end="1781722800" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1781726400" data-end-ts="1781733600">
+          <div style="min-width:0">
+            <div class="match-group">Group L</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/gb.svg" alt="England" loading="lazy">              <span class="team-name">England</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/hr.svg" alt="Croatia" loading="lazy">              <span class="team-name">Croatia</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Thu, Jun 18<br>2:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781726400" data-end="1781733600" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1781737200" data-end-ts="1781744400">
+          <div style="min-width:0">
+            <div class="match-group">Group L</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/gh.svg" alt="Ghana" loading="lazy">              <span class="team-name">Ghana</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/pa.svg" alt="Panama" loading="lazy">              <span class="team-name">Panama</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Thu, Jun 18<br>5:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781737200" data-end="1781744400" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1781748000" data-end-ts="1781755200">
+          <div style="min-width:0">
+            <div class="match-group">Group K</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/uz.svg" alt="Uzbekistan" loading="lazy">              <span class="team-name">Uzbekistan</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/co.svg" alt="Colombia" loading="lazy">              <span class="team-name">Colombia</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Thu, Jun 18<br>8:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781748000" data-end="1781755200" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1781798400" data-end-ts="1781805600">
+          <div style="min-width:0">
+            <div class="match-group">Group A</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/cz.svg" alt="Czechia" loading="lazy">              <span class="team-name">Czechia</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/za.svg" alt="South Africa" loading="lazy">              <span class="team-name">South Africa</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Thu, Jun 18<br>10:00 PM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781798400" data-end="1781805600" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1781809200" data-end-ts="1781816400">
+          <div style="min-width:0">
+            <div class="match-group">Group B</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ch.svg" alt="Switzerland" loading="lazy">              <span class="team-name">Switzerland</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ba.svg" alt="Bosnia and Herzegovina" loading="lazy">              <span class="team-name">Bosnia and Herzegovina</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Fri, Jun 19<br>1:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781809200" data-end="1781816400" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1781820000" data-end-ts="1781827200">
+          <div style="min-width:0">
+            <div class="match-group">Group B</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ca.svg" alt="Canada" loading="lazy">              <span class="team-name">Canada</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/qa.svg" alt="Qatar" loading="lazy">              <span class="team-name">Qatar</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Fri, Jun 19<br>4:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781820000" data-end="1781827200" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1781830800" data-end-ts="1781838000">
+          <div style="min-width:0">
+            <div class="match-group">Group A</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/mx.svg" alt="Mexico" loading="lazy">              <span class="team-name">Mexico</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/kr.svg" alt="South Korea" loading="lazy">              <span class="team-name">South Korea</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Fri, Jun 19<br>7:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781830800" data-end="1781838000" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1781895600" data-end-ts="1781902800">
+          <div style="min-width:0">
+            <div class="match-group">Group D</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/us.svg" alt="USA" loading="lazy">              <span class="team-name">USA</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/au.svg" alt="Australia" loading="lazy">              <span class="team-name">Australia</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sat, Jun 20<br>1:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781895600" data-end="1781902800" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1781906400" data-end-ts="1781913600">
+          <div style="min-width:0">
+            <div class="match-group">Group C</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/gb.svg" alt="Scotland" loading="lazy">              <span class="team-name">Scotland</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ma.svg" alt="Morocco" loading="lazy">              <span class="team-name">Morocco</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sat, Jun 20<br>4:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781906400" data-end="1781913600" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1781915400" data-end-ts="1781922600">
+          <div style="min-width:0">
+            <div class="match-group">Group C</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/br.svg" alt="Brazil" loading="lazy">              <span class="team-name">Brazil</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ht.svg" alt="Haiti" loading="lazy">              <span class="team-name">Haiti</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sat, Jun 20<br>6:30 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781915400" data-end="1781922600" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1781924400" data-end-ts="1781931600">
+          <div style="min-width:0">
+            <div class="match-group">Group D</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/tr.svg" alt="Türkiye" loading="lazy">              <span class="team-name">Türkiye</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/py.svg" alt="Paraguay" loading="lazy">              <span class="team-name">Paraguay</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sat, Jun 20<br>9:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781924400" data-end="1781931600" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1781974800" data-end-ts="1781982000">
+          <div style="min-width:0">
+            <div class="match-group">Group F</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/nl.svg" alt="Netherlands" loading="lazy">              <span class="team-name">Netherlands</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/se.svg" alt="Sweden" loading="lazy">              <span class="team-name">Sweden</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sat, Jun 20<br>11:00 PM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781974800" data-end="1781982000" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1781985600" data-end-ts="1781992800">
+          <div style="min-width:0">
+            <div class="match-group">Group E</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/de.svg" alt="Germany" loading="lazy">              <span class="team-name">Germany</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ci.svg" alt="Ivory Coast" loading="lazy">              <span class="team-name">Ivory Coast</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sun, Jun 21<br>2:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1781985600" data-end="1781992800" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782000000" data-end-ts="1782007200">
+          <div style="min-width:0">
+            <div class="match-group">Group E</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ec.svg" alt="Ecuador" loading="lazy">              <span class="team-name">Ecuador</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/cw.svg" alt="Curaçao" loading="lazy">              <span class="team-name">Curaçao</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sun, Jun 21<br>6:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782000000" data-end="1782007200" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782014400" data-end-ts="1782021600">
+          <div style="min-width:0">
+            <div class="match-group">Group F</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/tn.svg" alt="Tunisia" loading="lazy">              <span class="team-name">Tunisia</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/jp.svg" alt="Japan" loading="lazy">              <span class="team-name">Japan</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sun, Jun 21<br>10:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782014400" data-end="1782021600" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782057600" data-end-ts="1782064800">
+          <div style="min-width:0">
+            <div class="match-group">Group H</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/es.svg" alt="Spain" loading="lazy">              <span class="team-name">Spain</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/sa.svg" alt="Saudi Arabia" loading="lazy">              <span class="team-name">Saudi Arabia</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sun, Jun 21<br>10:00 PM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782057600" data-end="1782064800" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782068400" data-end-ts="1782075600">
+          <div style="min-width:0">
+            <div class="match-group">Group G</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/be.svg" alt="Belgium" loading="lazy">              <span class="team-name">Belgium</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ir.svg" alt="Iran" loading="lazy">              <span class="team-name">Iran</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Mon, Jun 22<br>1:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782068400" data-end="1782075600" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782079200" data-end-ts="1782086400">
+          <div style="min-width:0">
+            <div class="match-group">Group H</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/uy.svg" alt="Uruguay" loading="lazy">              <span class="team-name">Uruguay</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/cv.svg" alt="Cabo Verde" loading="lazy">              <span class="team-name">Cabo Verde</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Mon, Jun 22<br>4:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782079200" data-end="1782086400" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782090000" data-end-ts="1782097200">
+          <div style="min-width:0">
+            <div class="match-group">Group G</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/nz.svg" alt="New Zealand" loading="lazy">              <span class="team-name">New Zealand</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/eg.svg" alt="Egypt" loading="lazy">              <span class="team-name">Egypt</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Mon, Jun 22<br>7:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782090000" data-end="1782097200" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782147600" data-end-ts="1782154800">
+          <div style="min-width:0">
+            <div class="match-group">Group J</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ar.svg" alt="Argentina" loading="lazy">              <span class="team-name">Argentina</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/at.svg" alt="Austria" loading="lazy">              <span class="team-name">Austria</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Mon, Jun 22<br>11:00 PM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782147600" data-end="1782154800" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782162000" data-end-ts="1782169200">
+          <div style="min-width:0">
+            <div class="match-group">Group I</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/fr.svg" alt="France" loading="lazy">              <span class="team-name">France</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/iq.svg" alt="Iraq" loading="lazy">              <span class="team-name">Iraq</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Tue, Jun 23<br>3:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782162000" data-end="1782169200" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782172800" data-end-ts="1782180000">
+          <div style="min-width:0">
+            <div class="match-group">Group I</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/no.svg" alt="Norway" loading="lazy">              <span class="team-name">Norway</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/sn.svg" alt="Senegal" loading="lazy">              <span class="team-name">Senegal</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Tue, Jun 23<br>6:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782172800" data-end="1782180000" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782183600" data-end-ts="1782190800">
+          <div style="min-width:0">
+            <div class="match-group">Group J</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/jo.svg" alt="Jordan" loading="lazy">              <span class="team-name">Jordan</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/dz.svg" alt="Algeria" loading="lazy">              <span class="team-name">Algeria</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Tue, Jun 23<br>9:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782183600" data-end="1782190800" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782234000" data-end-ts="1782241200">
+          <div style="min-width:0">
+            <div class="match-group">Group K</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/pt.svg" alt="Portugal" loading="lazy">              <span class="team-name">Portugal</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/uz.svg" alt="Uzbekistan" loading="lazy">              <span class="team-name">Uzbekistan</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Tue, Jun 23<br>11:00 PM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782234000" data-end="1782241200" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782244800" data-end-ts="1782252000">
+          <div style="min-width:0">
+            <div class="match-group">Group L</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/gb.svg" alt="England" loading="lazy">              <span class="team-name">England</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/gh.svg" alt="Ghana" loading="lazy">              <span class="team-name">Ghana</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Wed, Jun 24<br>2:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782244800" data-end="1782252000" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782255600" data-end-ts="1782262800">
+          <div style="min-width:0">
+            <div class="match-group">Group L</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/pa.svg" alt="Panama" loading="lazy">              <span class="team-name">Panama</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/hr.svg" alt="Croatia" loading="lazy">              <span class="team-name">Croatia</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Wed, Jun 24<br>5:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782255600" data-end="1782262800" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782266400" data-end-ts="1782273600">
+          <div style="min-width:0">
+            <div class="match-group">Group K</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/co.svg" alt="Colombia" loading="lazy">              <span class="team-name">Colombia</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/cd.svg" alt="DR Congo" loading="lazy">              <span class="team-name">DR Congo</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Wed, Jun 24<br>8:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782266400" data-end="1782273600" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782327600" data-end-ts="1782334800">
+          <div style="min-width:0">
+            <div class="match-group">Group B</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ch.svg" alt="Switzerland" loading="lazy">              <span class="team-name">Switzerland</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ca.svg" alt="Canada" loading="lazy">              <span class="team-name">Canada</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Thu, Jun 25<br>1:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782327600" data-end="1782334800" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782327600" data-end-ts="1782334800">
+          <div style="min-width:0">
+            <div class="match-group">Group B</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ba.svg" alt="Bosnia and Herzegovina" loading="lazy">              <span class="team-name">Bosnia and Herzegovina</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/qa.svg" alt="Qatar" loading="lazy">              <span class="team-name">Qatar</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Thu, Jun 25<br>1:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782327600" data-end="1782334800" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782338400" data-end-ts="1782345600">
+          <div style="min-width:0">
+            <div class="match-group">Group C</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ma.svg" alt="Morocco" loading="lazy">              <span class="team-name">Morocco</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ht.svg" alt="Haiti" loading="lazy">              <span class="team-name">Haiti</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Thu, Jun 25<br>4:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782338400" data-end="1782345600" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782338400" data-end-ts="1782345600">
+          <div style="min-width:0">
+            <div class="match-group">Group C</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/gb.svg" alt="Scotland" loading="lazy">              <span class="team-name">Scotland</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/br.svg" alt="Brazil" loading="lazy">              <span class="team-name">Brazil</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Thu, Jun 25<br>4:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782338400" data-end="1782345600" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782349200" data-end-ts="1782356400">
+          <div style="min-width:0">
+            <div class="match-group">Group A</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/za.svg" alt="South Africa" loading="lazy">              <span class="team-name">South Africa</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/kr.svg" alt="South Korea" loading="lazy">              <span class="team-name">South Korea</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Thu, Jun 25<br>7:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782349200" data-end="1782356400" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782349200" data-end-ts="1782356400">
+          <div style="min-width:0">
+            <div class="match-group">Group A</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/cz.svg" alt="Czechia" loading="lazy">              <span class="team-name">Czechia</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/mx.svg" alt="Mexico" loading="lazy">              <span class="team-name">Mexico</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Thu, Jun 25<br>7:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782349200" data-end="1782356400" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782417600" data-end-ts="1782424800">
+          <div style="min-width:0">
+            <div class="match-group">Group E</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/cw.svg" alt="Curaçao" loading="lazy">              <span class="team-name">Curaçao</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ci.svg" alt="Ivory Coast" loading="lazy">              <span class="team-name">Ivory Coast</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Fri, Jun 26<br>2:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782417600" data-end="1782424800" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782417600" data-end-ts="1782424800">
+          <div style="min-width:0">
+            <div class="match-group">Group E</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ec.svg" alt="Ecuador" loading="lazy">              <span class="team-name">Ecuador</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/de.svg" alt="Germany" loading="lazy">              <span class="team-name">Germany</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Fri, Jun 26<br>2:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782417600" data-end="1782424800" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782428400" data-end-ts="1782435600">
+          <div style="min-width:0">
+            <div class="match-group">Group F</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/tn.svg" alt="Tunisia" loading="lazy">              <span class="team-name">Tunisia</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/nl.svg" alt="Netherlands" loading="lazy">              <span class="team-name">Netherlands</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Fri, Jun 26<br>5:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782428400" data-end="1782435600" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782428400" data-end-ts="1782435600">
+          <div style="min-width:0">
+            <div class="match-group">Group F</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/jp.svg" alt="Japan" loading="lazy">              <span class="team-name">Japan</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/se.svg" alt="Sweden" loading="lazy">              <span class="team-name">Sweden</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Fri, Jun 26<br>5:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782428400" data-end="1782435600" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782439200" data-end-ts="1782446400">
+          <div style="min-width:0">
+            <div class="match-group">Group D</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/tr.svg" alt="Türkiye" loading="lazy">              <span class="team-name">Türkiye</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/us.svg" alt="USA" loading="lazy">              <span class="team-name">USA</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Fri, Jun 26<br>8:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782439200" data-end="1782446400" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782439200" data-end-ts="1782446400">
+          <div style="min-width:0">
+            <div class="match-group">Group D</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/py.svg" alt="Paraguay" loading="lazy">              <span class="team-name">Paraguay</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/au.svg" alt="Australia" loading="lazy">              <span class="team-name">Australia</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Fri, Jun 26<br>8:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782439200" data-end="1782446400" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782500400" data-end-ts="1782507600">
+          <div style="min-width:0">
+            <div class="match-group">Group I</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/no.svg" alt="Norway" loading="lazy">              <span class="team-name">Norway</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/fr.svg" alt="France" loading="lazy">              <span class="team-name">France</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sat, Jun 27<br>1:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782500400" data-end="1782507600" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782500400" data-end-ts="1782507600">
+          <div style="min-width:0">
+            <div class="match-group">Group I</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/sn.svg" alt="Senegal" loading="lazy">              <span class="team-name">Senegal</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/iq.svg" alt="Iraq" loading="lazy">              <span class="team-name">Iraq</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sat, Jun 27<br>1:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782500400" data-end="1782507600" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782518400" data-end-ts="1782525600">
+          <div style="min-width:0">
+            <div class="match-group">Group H</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/cv.svg" alt="Cabo Verde" loading="lazy">              <span class="team-name">Cabo Verde</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/sa.svg" alt="Saudi Arabia" loading="lazy">              <span class="team-name">Saudi Arabia</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sat, Jun 27<br>6:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782518400" data-end="1782525600" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782518400" data-end-ts="1782525600">
+          <div style="min-width:0">
+            <div class="match-group">Group H</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/uy.svg" alt="Uruguay" loading="lazy">              <span class="team-name">Uruguay</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/es.svg" alt="Spain" loading="lazy">              <span class="team-name">Spain</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sat, Jun 27<br>6:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782518400" data-end="1782525600" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782529200" data-end-ts="1782536400">
+          <div style="min-width:0">
+            <div class="match-group">Group G</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/nz.svg" alt="New Zealand" loading="lazy">              <span class="team-name">New Zealand</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/be.svg" alt="Belgium" loading="lazy">              <span class="team-name">Belgium</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sat, Jun 27<br>9:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782529200" data-end="1782536400" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782529200" data-end-ts="1782536400">
+          <div style="min-width:0">
+            <div class="match-group">Group G</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/eg.svg" alt="Egypt" loading="lazy">              <span class="team-name">Egypt</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ir.svg" alt="Iran" loading="lazy">              <span class="team-name">Iran</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sat, Jun 27<br>9:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782529200" data-end="1782536400" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782594000" data-end-ts="1782601200">
+          <div style="min-width:0">
+            <div class="match-group">Group L</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/pa.svg" alt="Panama" loading="lazy">              <span class="team-name">Panama</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/gb.svg" alt="England" loading="lazy">              <span class="team-name">England</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sun, Jun 28<br>3:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782594000" data-end="1782601200" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782594000" data-end-ts="1782601200">
+          <div style="min-width:0">
+            <div class="match-group">Group L</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/hr.svg" alt="Croatia" loading="lazy">              <span class="team-name">Croatia</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/gh.svg" alt="Ghana" loading="lazy">              <span class="team-name">Ghana</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sun, Jun 28<br>3:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782594000" data-end="1782601200" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782603000" data-end-ts="1782610200">
+          <div style="min-width:0">
+            <div class="match-group">Group K</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/co.svg" alt="Colombia" loading="lazy">              <span class="team-name">Colombia</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/pt.svg" alt="Portugal" loading="lazy">              <span class="team-name">Portugal</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sun, Jun 28<br>5:30 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782603000" data-end="1782610200" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782603000" data-end-ts="1782610200">
+          <div style="min-width:0">
+            <div class="match-group">Group K</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/cd.svg" alt="DR Congo" loading="lazy">              <span class="team-name">DR Congo</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/uz.svg" alt="Uzbekistan" loading="lazy">              <span class="team-name">Uzbekistan</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sun, Jun 28<br>5:30 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782603000" data-end="1782610200" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782612000" data-end-ts="1782619200">
+          <div style="min-width:0">
+            <div class="match-group">Group J</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/dz.svg" alt="Algeria" loading="lazy">              <span class="team-name">Algeria</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/at.svg" alt="Austria" loading="lazy">              <span class="team-name">Austria</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sun, Jun 28<br>8:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782612000" data-end="1782619200" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
+                      <div class="match-card " data-match-status="upcoming" data-stage="group" data-start-ts="1782612000" data-end-ts="1782619200">
+          <div style="min-width:0">
+            <div class="match-group">Group J</div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/jo.svg" alt="Jordan" loading="lazy">              <span class="team-name">Jordan</span>
+            </div>
+            <div class="team-row">
+              <img class="flag" src="https://flagcdn.com/ar.svg" alt="Argentina" loading="lazy">              <span class="team-name">Argentina</span>
+            </div>
+          </div>
+
+          <div class="match-side">
+            <div class="match-time">Sun, Jun 28<br>8:00 AM</div>
+                        <div class="match-countdown" data-match-countdown data-start="1782612000" data-end="1782619200" data-status="upcoming">Loading...</div>
+          </div>
+        </div>
