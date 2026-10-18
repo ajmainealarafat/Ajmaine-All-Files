@@ -3,3 +3,5 @@ toffe: https://raw.githubusercontent.com/sm-monirulislam/Toffee-Auto-Update/refs
 Tapmad: https://gist.githubusercontent.com/albatr0ssss/3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.m3u
 sony liv: https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u
 amazon prime : https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/primevideo_sports.m3u
+
+all sports: https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/refs/heads/main/Sports_data.m3u
